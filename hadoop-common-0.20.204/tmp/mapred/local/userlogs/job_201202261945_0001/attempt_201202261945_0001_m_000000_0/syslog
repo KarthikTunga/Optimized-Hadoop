@@ -1,0 +1,27 @@
+2012-02-26 19:54:25,876 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2012-02-26 19:54:26,002 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-02-26 19:54:26,103 INFO org.apache.hadoop.mapred.TaskLogsTruncater: Initializing logs' truncater with mapRetainSize=-1 and reduceRetainSize=-1
+2012-02-26 19:54:26,132 WARN org.apache.hadoop.mapred.Child: Error running child
+java.lang.RuntimeException: java.lang.ClassNotFoundException: WordCount$TokenizerMapper
+	at org.apache.hadoop.conf.Configuration.getClass(Configuration.java:866)
+	at org.apache.hadoop.mapreduce.JobContext.getMapperClass(JobContext.java:199)
+	at org.apache.hadoop.mapred.MapTask.runNewMapper(MapTask.java:719)
+	at org.apache.hadoop.mapred.MapTask.run(MapTask.java:370)
+	at org.apache.hadoop.mapred.Child$4.run(Child.java:261)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:416)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1059)
+	at org.apache.hadoop.mapred.Child.main(Child.java:255)
+Caused by: java.lang.ClassNotFoundException: WordCount$TokenizerMapper
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:217)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:205)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:321)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:294)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:266)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at org.apache.hadoop.conf.Configuration.getClassByName(Configuration.java:819)
+	at org.apache.hadoop.conf.Configuration.getClass(Configuration.java:864)
+	... 8 more
+2012-02-26 19:54:26,136 INFO org.apache.hadoop.mapred.Task: Runnning cleanup for the task
