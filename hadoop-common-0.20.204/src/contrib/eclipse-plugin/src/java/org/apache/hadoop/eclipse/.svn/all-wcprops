@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse
+END
+NewMapperWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewMapperWizard.java
+END
+NewDriverWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewDriverWizardPage.java
+END
+MapReduceNature.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/MapReduceNature.java
+END
+NewReducerWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewReducerWizard.java
+END
+NewDriverWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewDriverWizard.java
+END
+ImageLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/ImageLibrary.java
+END
+NewMapReduceProjectWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewMapReduceProjectWizard.java
+END
+PropertyTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/PropertyTester.java
+END
+HadoopPerspectiveFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/HadoopPerspectiveFactory.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/Activator.java
+END
+ErrorMessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/ErrorMessageDialog.java
+END

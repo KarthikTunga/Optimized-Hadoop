@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/fs/shell
+END
+CommandUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/fs/shell/CommandUtils.java
+END
+CommandFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/fs/shell/CommandFormat.java
+END
+Count.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/fs/shell/Count.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/fs/shell/Command.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/.settings/org.eclipse.jdt.core.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/.settings/org.eclipse.jdt.ui.prefs
+END
+org.eclipse.wst.validation.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/.settings/org.eclipse.wst.validation.prefs
+END

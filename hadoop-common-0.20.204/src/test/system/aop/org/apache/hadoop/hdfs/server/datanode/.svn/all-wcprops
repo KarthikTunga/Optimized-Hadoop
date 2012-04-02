@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/aop/org/apache/hadoop/hdfs/server/datanode
+END
+DataNodeAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/aop/org/apache/hadoop/hdfs/server/datanode/DataNodeAspect.aj
+END

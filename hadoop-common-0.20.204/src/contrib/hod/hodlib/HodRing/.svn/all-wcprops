@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hod/hodlib/HodRing
+END
+hodRing.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hod/hodlib/HodRing/hodRing.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hod/hodlib/HodRing/__init__.py
+END

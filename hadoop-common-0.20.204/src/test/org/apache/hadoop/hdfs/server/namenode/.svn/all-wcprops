@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode
+END
+TestNamenodeCapacityReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestNamenodeCapacityReport.java
+END
+TestStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestStartup.java
+END
+TestHeartbeatHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestHeartbeatHandling.java
+END
+TestNameCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestNameCache.java
+END
+TestMetaSave.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestMetaSave.java
+END
+TestOverReplicatedBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestOverReplicatedBlocks.java
+END
+TestUnderReplicatedBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestUnderReplicatedBlocks.java
+END
+TestCheckPointForSecurityTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestCheckPointForSecurityTokens.java
+END
+TestSaveNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestSaveNamespace.java
+END
+TestFileLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestFileLimit.java
+END
+TestDatanodeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestDatanodeDescriptor.java
+END
+TestPendingReplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestPendingReplication.java
+END
+NNThroughputBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/NNThroughputBenchmark.java
+END
+TestNNThroughputBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestNNThroughputBenchmark.java
+END
+TestSecurityTokenEditLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestSecurityTokenEditLog.java
+END
+TestNameNodeMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestNameNodeMXBean.java
+END
+TestNameEditsConfigs.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestNameEditsConfigs.java
+END
+TestBlockTokenWithDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestBlockTokenWithDFS.java
+END
+TestHost2NodesMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestHost2NodesMap.java
+END
+TestFsck.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestFsck.java
+END
+TestEditLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestEditLog.java
+END
+TestCheckpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestCheckpoint.java
+END
+FileNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/FileNameGenerator.java
+END
+TestReplicationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestReplicationPolicy.java
+END
+TestDecommissioningStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestDecommissioningStatus.java
+END
+TestJspHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestJspHelper.java
+END
+TestDeadDatanode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestDeadDatanode.java
+END
+TestINodeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestINodeFile.java
+END
+CreateEditsLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/CreateEditsLog.java
+END
+TestNodeCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/namenode/TestNodeCount.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/webdatascan
+END
+webdata_scan.small
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/webdatascan/webdata_scan.small
+END
+webdata_scan.large
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/webdatascan/webdata_scan.large
+END
+webdata_scan.medium
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/webdatascan/webdata_scan.medium
+END

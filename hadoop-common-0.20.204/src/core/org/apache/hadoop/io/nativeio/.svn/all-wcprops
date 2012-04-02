@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/io/nativeio
+END
+Errno.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/io/nativeio/Errno.java
+END
+NativeIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/io/nativeio/NativeIOException.java
+END
+NativeIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/io/nativeio/NativeIO.java
+END

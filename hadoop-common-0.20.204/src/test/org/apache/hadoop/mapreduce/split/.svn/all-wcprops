@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/mapreduce/split
+END
+TestJobSplitWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/mapreduce/split/TestJobSplitWriter.java
+END
+TestBlockLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/mapreduce/split/TestBlockLimits.java
+END

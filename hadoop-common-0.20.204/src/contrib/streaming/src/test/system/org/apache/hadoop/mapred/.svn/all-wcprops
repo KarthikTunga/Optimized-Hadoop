@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred
+END
+TestStreamingJobProcessTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestStreamingJobProcessTree.java
+END
+TestTaskKillingOfStreamingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestTaskKillingOfStreamingJob.java
+END
+TestLinuxTaskControllerOtherUserStreamingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestLinuxTaskControllerOtherUserStreamingJob.java
+END

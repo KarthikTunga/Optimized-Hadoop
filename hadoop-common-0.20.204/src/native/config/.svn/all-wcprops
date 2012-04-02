@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/config
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/config/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/config/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/config/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/config/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/config/ltmain.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/config/install-sh
+END

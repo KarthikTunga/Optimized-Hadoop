@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/bin
+END
+runScript.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/bin/runScript.sh
+END
+test-patch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/bin/test-patch.sh
+END

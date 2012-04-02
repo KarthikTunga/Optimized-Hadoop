@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/mapreduce/security
+END
+TestTokenCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/mapreduce/security/TestTokenCache.java
+END
+TestUmbilicalProtocolWithJobToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/mapreduce/security/TestUmbilicalProtocolWithJobToken.java
+END

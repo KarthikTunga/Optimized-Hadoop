@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs
+END
+DeleteJobEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/DeleteJobEvent.java
+END
+UserLogEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/UserLogEvent.java
+END
+JobStartedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/JobStartedEvent.java
+END
+JvmFinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/JvmFinishedEvent.java
+END
+JobCompletedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/JobCompletedEvent.java
+END
+UserLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/UserLogManager.java
+END

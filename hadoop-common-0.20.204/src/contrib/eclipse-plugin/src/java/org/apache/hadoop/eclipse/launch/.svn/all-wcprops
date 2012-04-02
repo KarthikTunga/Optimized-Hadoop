@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch
+END
+LocalMapReduceLaunchTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/LocalMapReduceLaunchTabGroup.java
+END
+HadoopApplicationLaunchShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/HadoopApplicationLaunchShortcut.java
+END
+StartHadoopLaunchTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/StartHadoopLaunchTabGroup.java
+END
+MutexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/MutexRule.java
+END

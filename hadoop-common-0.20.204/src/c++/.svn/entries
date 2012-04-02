@@ -1,0 +1,46 @@
+10
+
+dir
+1243703
+http://svn.apache.org/repos/asf/hadoop/common/tags/release-0.20.204.0/src/c++
+http://svn.apache.org/repos/asf
+
+
+
+2011-08-19T17:58:37.515549Z
+1159717
+omalley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+pipes
+dir
+
+utils
+dir
+
+task-controller
+dir
+
+jsvc
+dir
+
+libhdfs
+dir
+
+librecordio
+dir
+

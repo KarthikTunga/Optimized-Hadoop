@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/cli
+END
+testConf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/cli/testConf.xml
+END
+TestCLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/cli/TestCLI.java
+END
+testConf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/cli/testConf.xsl
+END

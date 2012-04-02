@@ -1,7 +1,0 @@
-2012-02-26 19:54:49,768 WARN org.apache.hadoop.util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2012-02-26 19:54:49,913 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
-2012-02-26 19:54:49,990 INFO org.apache.hadoop.mapred.Task: Cleaning up job
-2012-02-26 19:54:49,990 INFO org.apache.hadoop.mapred.Task: Aborting job with runstate : FAILED
-2012-02-26 19:54:49,999 INFO org.apache.hadoop.mapred.Task: Task:attempt_201202261945_0001_m_000001_0 is done. And is in the process of commiting
-2012-02-26 19:54:52,994 INFO org.apache.hadoop.mapred.Task: Task 'attempt_201202261945_0001_m_000001_0' done.
-2012-02-26 19:54:53,024 INFO org.apache.hadoop.mapred.TaskLogsTruncater: Initializing logs' truncater with mapRetainSize=-1 and reduceRetainSize=-1

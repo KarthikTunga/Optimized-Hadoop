@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/filecache
+END
+TaskDistributedCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/filecache/TaskDistributedCacheManager.java
+END
+DistributedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/filecache/DistributedCache.java
+END
+TrackerDistributedCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/filecache/TrackerDistributedCacheManager.java
+END

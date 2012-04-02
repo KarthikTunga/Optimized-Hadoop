@@ -1,0 +1,107 @@
+10
+
+dir
+1243703
+http://svn.apache.org/repos/asf/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop
+http://svn.apache.org/repos/asf
+
+
+
+2011-08-25T00:00:50.625908Z
+1161328
+omalley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+http
+dir
+
+log
+dir
+
+conf
+dir
+
+net
+dir
+
+metrics2
+dir
+
+HadoopVersionAnnotation.java
+file
+
+
+
+
+2012-02-03T09:10:22.000000Z
+003c4fb06456ac259fc90596eeb05024
+2007-06-20T22:46:06.418043Z
+549284
+cutting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1574
+
+classification
+dir
+
+jmx
+dir
+
+filecache
+dir
+
+metrics
+dir
+
+io
+dir
+
+security
+dir
+
+fs
+dir
+
+ipc
+dir
+
+util
+dir
+
+record
+dir
+

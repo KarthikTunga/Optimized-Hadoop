@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/security
+END
+TestDelegationTokenAuthMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/security/TestDelegationTokenAuthMethod.java
+END
+TestDelegationTokenForProxyUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/security/TestDelegationTokenForProxyUser.java
+END
+TestClientProtocolWithDelegationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/security/TestClientProtocolWithDelegationToken.java
+END
+TestDelegationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/security/TestDelegationToken.java
+END

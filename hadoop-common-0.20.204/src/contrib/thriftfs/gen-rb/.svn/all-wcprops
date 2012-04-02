@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/thriftfs/gen-rb
+END
+hadoopfs_constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/thriftfs/gen-rb/hadoopfs_constants.rb
+END
+ThriftHadoopFileSystem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/thriftfs/gen-rb/ThriftHadoopFileSystem.rb
+END
+hadoopfs_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/thriftfs/gen-rb/hadoopfs_types.rb
+END

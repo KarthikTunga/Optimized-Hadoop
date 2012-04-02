@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy
+END
+ProxyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyUtil.java
+END
+ProxyFileDataServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyFileDataServlet.java
+END
+ProxyListPathsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyListPathsServlet.java
+END
+KerberosAuthorizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/KerberosAuthorizationFilter.java
+END
+AuthorizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/AuthorizationFilter.java
+END
+HdfsProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/HdfsProxy.java
+END
+ProxyFileForward.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyFileForward.java
+END
+ProxyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyFilter.java
+END
+ProxyHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyHttpServer.java
+END
+ProxyForwardServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyForwardServlet.java
+END
+ProxyStreamFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyStreamFile.java
+END
+LdapIpDirFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/LdapIpDirFilter.java
+END

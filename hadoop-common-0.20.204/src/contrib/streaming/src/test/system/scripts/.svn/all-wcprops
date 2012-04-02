@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/streaming/src/test/system/scripts
+END
+ProcessTree.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/streaming/src/test/system/scripts/ProcessTree.sh
+END
+StreamMapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/streaming/src/test/system/scripts/StreamMapper.sh
+END

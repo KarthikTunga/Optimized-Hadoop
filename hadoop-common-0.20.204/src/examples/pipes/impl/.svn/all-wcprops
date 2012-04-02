@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/impl
+END
+wordcount-simple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/impl/wordcount-simple.cc
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/impl/config.h.in
+END
+wordcount-nopipe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/impl/wordcount-nopipe.cc
+END
+sort.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/impl/sort.cc
+END
+wordcount-part.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/impl/wordcount-part.cc
+END

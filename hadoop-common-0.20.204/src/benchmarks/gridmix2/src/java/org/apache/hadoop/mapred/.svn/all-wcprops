@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/src/java/org/apache/hadoop/mapred
+END
+GenericMRLoadJobCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/src/java/org/apache/hadoop/mapred/GenericMRLoadJobCreator.java
+END
+CombinerJobCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/src/java/org/apache/hadoop/mapred/CombinerJobCreator.java
+END
+GridMixRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/src/java/org/apache/hadoop/mapred/GridMixRunner.java
+END

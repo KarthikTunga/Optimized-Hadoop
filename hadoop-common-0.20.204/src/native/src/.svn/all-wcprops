@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/src
+END
+org_apache_hadoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/src/org_apache_hadoop.h
+END

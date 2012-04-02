@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2
+END
+README.gridmix2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/README.gridmix2
+END
+generateGridmix2data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/generateGridmix2data.sh
+END
+gridmix_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/gridmix_config.xml
+END
+gridmix-env-2
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/gridmix-env-2
+END
+rungridmix_2
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/rungridmix_2
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix2/build.xml
+END

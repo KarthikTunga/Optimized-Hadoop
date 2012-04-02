@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/init.d
+END
+hadoop-tasktracker
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/init.d/hadoop-tasktracker
+END
+hadoop-datanode
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/init.d/hadoop-datanode
+END
+hadoop-jobtracker
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/init.d/hadoop-jobtracker
+END
+hadoop-namenode
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/init.d/hadoop-namenode
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya
+END
+DiagnosticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/DiagnosticTest.java
+END
+JobDiagnoser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/JobDiagnoser.java
+END
+vaidya.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/vaidya.sh
+END

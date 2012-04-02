@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/metrics2/sink/ganglia
+END
+GangliaMetricVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/metrics2/sink/ganglia/GangliaMetricVisitor.java
+END
+GangliaConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/metrics2/sink/ganglia/GangliaConf.java
+END
+GangliaSink30.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/metrics2/sink/ganglia/GangliaSink30.java
+END
+AbstractGangliaSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/metrics2/sink/ganglia/AbstractGangliaSink.java
+END
+GangliaSink31.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/metrics2/sink/ganglia/GangliaSink31.java
+END

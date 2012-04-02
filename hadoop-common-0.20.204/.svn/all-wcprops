@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/LICENSE.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.gitignore
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/CHANGES.txt
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/ivy.xml
+END
+sample-conf.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/sample-conf.tgz
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/build.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/lib/output
+END
+SequenceFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/lib/output/SequenceFileOutputFormat.java
+END
+FileOutputFormat_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat_Counter.properties
+END
+FileOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputCommitter.java
+END
+NullOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/lib/output/NullOutputFormat.java
+END
+FileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.java
+END
+TextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapreduce/lib/output/TextOutputFormat.java
+END

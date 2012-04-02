@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server
+END
+HadoopServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/HadoopServer.java
+END
+JarModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/JarModule.java
+END
+HadoopPathPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/HadoopPathPage.java
+END
+HadoopJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/HadoopJob.java
+END
+ConfProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/ConfProp.java
+END
+IJobListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/IJobListener.java
+END

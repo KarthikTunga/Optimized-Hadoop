@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc
+END
+VersionedProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/VersionedProtocol.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/Status.java
+END
+RPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/RPC.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/Server.java
+END
+ConnectionHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/ConnectionHeader.java
+END
+RemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/RemoteException.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/Client.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/ipc/package.html
+END

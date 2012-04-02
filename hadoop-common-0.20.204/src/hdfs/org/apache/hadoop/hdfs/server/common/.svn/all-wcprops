@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common
+END
+GenerationStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/GenerationStamp.java
+END
+StorageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/StorageInfo.java
+END
+HdfsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/HdfsConstants.java
+END
+UpgradeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeManager.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/Storage.java
+END
+UpgradeStatusReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeStatusReport.java
+END
+InconsistentFSStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/InconsistentFSStateException.java
+END
+UpgradeObjectCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeObjectCollection.java
+END
+Upgradeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/Upgradeable.java
+END
+IncorrectVersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/IncorrectVersionException.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/Util.java
+END
+UpgradeObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeObject.java
+END

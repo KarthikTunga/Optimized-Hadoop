@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/task-controller/impl
+END
+task-controller.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/task-controller/impl/task-controller.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/task-controller/impl/main.c
+END
+configuration.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/task-controller/impl/configuration.c
+END
+task-controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/task-controller/impl/task-controller.h
+END
+configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/task-controller/impl/configuration.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/http/lib
+END
+StaticUserWebFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/http/lib/StaticUserWebFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/core/org/apache/hadoop/http/lib/package.html
+END

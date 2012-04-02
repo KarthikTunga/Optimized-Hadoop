@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/configure.ac
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/depcomp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/config.guess
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/README.txt
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/aclocal.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/ltmain.sh
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/.autom4te.cfg
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/examples/pipes/install-sh
+END

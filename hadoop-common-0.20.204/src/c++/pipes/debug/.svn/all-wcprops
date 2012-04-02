@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/pipes/debug
+END
+pipes-default-script
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/pipes/debug/pipes-default-script
+END
+pipes-default-gdb-commands.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/pipes/debug/pipes-default-gdb-commands.txt
+END

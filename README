@@ -1,0 +1,4 @@
+This is just my experiment with hadoop and trying to optimize it.
+
+For the first step I have done a direct copy of the map output to the reducer
+input when both the mapper and reducer tasks are running on the same node.

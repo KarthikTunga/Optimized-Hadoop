@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/thriftfs/gen-php
+END
+ThriftHadoopFileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/thriftfs/gen-php/ThriftHadoopFileSystem.php
+END
+hadoopfs_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/thriftfs/gen-php/hadoopfs_types.php
+END

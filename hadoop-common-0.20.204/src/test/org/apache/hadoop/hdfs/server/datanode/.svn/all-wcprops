@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode
+END
+TestDataNodeVolumeFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestDataNodeVolumeFailure.java
+END
+TestInterDatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestInterDatanodeProtocol.java
+END
+TestDiskError.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestDiskError.java
+END
+SimulatedFSDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/SimulatedFSDataset.java
+END
+TestDataNodeMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestDataNodeMetrics.java
+END
+TestSimulatedFSDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestSimulatedFSDataset.java
+END
+TestBlockReplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestBlockReplacement.java
+END
+TestDataNodeMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestDataNodeMXBean.java
+END

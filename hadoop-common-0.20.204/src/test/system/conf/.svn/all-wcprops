@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/conf
+END
+system-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/conf/system-test.xml
+END
+hadoop-policy-system-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/conf/hadoop-policy-system-test.xml
+END

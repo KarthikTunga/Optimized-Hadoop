@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib
+END
+MultipleOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/MultipleOutputs.java
+END
+TotalOrderPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/TotalOrderPartitioner.java
+END
+IdentityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/IdentityReducer.java
+END
+HashPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/HashPartitioner.java
+END
+CombineFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/CombineFileInputFormat.java
+END
+KeyFieldBasedPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/KeyFieldBasedPartitioner.java
+END
+MultipleSequenceFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/MultipleSequenceFileOutputFormat.java
+END
+FieldSelectionMapReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/FieldSelectionMapReduce.java
+END
+MultithreadedMapRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/MultithreadedMapRunner.java
+END
+InputSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/InputSampler.java
+END
+CombineFileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/CombineFileSplit.java
+END
+KeyFieldHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/KeyFieldHelper.java
+END
+LongSumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/LongSumReducer.java
+END
+IdentityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/IdentityMapper.java
+END
+CombineFileRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/CombineFileRecordReader.java
+END
+TokenCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/TokenCountMapper.java
+END
+MultipleInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/MultipleInputs.java
+END
+NullOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/NullOutputFormat.java
+END
+DelegatingMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/DelegatingMapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/package.html
+END
+RegexMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/RegexMapper.java
+END
+InverseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/InverseMapper.java
+END
+Chain.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/Chain.java
+END
+KeyFieldBasedComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/KeyFieldBasedComparator.java
+END
+MultipleOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/MultipleOutputFormat.java
+END
+TaggedInputSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/TaggedInputSplit.java
+END
+ChainMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/ChainMapper.java
+END
+MultipleTextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/MultipleTextOutputFormat.java
+END
+ChainReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/ChainReducer.java
+END
+DelegatingInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/DelegatingInputFormat.java
+END
+NLineInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/mapred/org/apache/hadoop/mapred/lib/NLineInputFormat.java
+END

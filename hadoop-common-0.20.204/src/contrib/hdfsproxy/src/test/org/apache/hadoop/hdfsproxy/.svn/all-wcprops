@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy
+END
+TestProxyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/TestProxyUtil.java
+END
+DummyLdapContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/DummyLdapContext.java
+END
+TestHdfsProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/TestHdfsProxy.java
+END
+FindFreePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/FindFreePort.java
+END
+SimpleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/SimpleServlet.java
+END

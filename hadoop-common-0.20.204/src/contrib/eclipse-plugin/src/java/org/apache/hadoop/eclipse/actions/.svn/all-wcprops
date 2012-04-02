@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions
+END
+OpenNewMRClassWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/OpenNewMRClassWizardAction.java
+END
+OpenNewMRProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/OpenNewMRProjectAction.java
+END
+NewLocationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/NewLocationAction.java
+END
+DFSActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/DFSActionImpl.java
+END
+EditLocationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/EditLocationAction.java
+END

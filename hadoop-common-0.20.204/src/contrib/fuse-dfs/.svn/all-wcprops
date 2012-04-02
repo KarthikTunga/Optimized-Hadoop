@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/configure.ac
+END
+global_footer.mk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/global_footer.mk
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/acinclude.m4
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/bootstrap.sh
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/ivy.xml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/build.xml
+END
+global_header.mk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/fuse-dfs/global_header.mk
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/ddl
+END
+string.jr
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/ddl/string.jr
+END
+buffer.jr
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/ddl/buffer.jr
+END
+int.jr
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/ddl/int.jr
+END
+test.jr
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/ddl/test.jr
+END

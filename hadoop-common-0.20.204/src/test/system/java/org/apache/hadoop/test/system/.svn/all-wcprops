@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system
+END
+DaemonProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system/DaemonProtocol.java
+END
+AbstractDaemonClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system/AbstractDaemonClient.java
+END
+AbstractDaemonCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system/AbstractDaemonCluster.java
+END
+ProcessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system/ProcessInfo.java
+END
+ProcessInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system/ProcessInfoImpl.java
+END
+ProxyUserDefinitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system/ProxyUserDefinitions.java
+END
+ControlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/system/java/org/apache/hadoop/test/system/ControlAction.java
+END

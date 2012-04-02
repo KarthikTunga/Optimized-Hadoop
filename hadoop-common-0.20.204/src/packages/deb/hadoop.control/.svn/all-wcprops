@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/hadoop.control
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/hadoop.control/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/hadoop.control/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/hadoop.control/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/hadoop.control/preinst
+END
+conffile
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/hadoop.control/conffile
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/packages/deb/hadoop.control/prerm
+END

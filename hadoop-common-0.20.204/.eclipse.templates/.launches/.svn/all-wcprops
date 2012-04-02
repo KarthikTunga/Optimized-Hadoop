@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.eclipse.templates/.launches
+END
+JobTracker.launch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.eclipse.templates/.launches/JobTracker.launch
+END
+NameNode.launch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.eclipse.templates/.launches/NameNode.launch
+END
+AllTests.launch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.eclipse.templates/.launches/AllTests.launch
+END
+TaskTracker.launch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.eclipse.templates/.launches/TaskTracker.launch
+END
+DataNode.launch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.eclipse.templates/.launches/DataNode.launch
+END
+SpecificTestTemplate.launch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/.eclipse.templates/.launches/SpecificTestTemplate.launch
+END

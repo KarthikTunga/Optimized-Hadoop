@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job
+END
+jobqueue_details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobqueue_details.jsp
+END
+jobfailures.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobfailures.jsp
+END
+jobtracker.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobtracker.jsp
+END
+machines.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/machines.jsp
+END
+taskdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/taskdetails.jsp
+END
+jobblacklistedtrackers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobblacklistedtrackers.jsp
+END
+jobhistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobhistory.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/index.html
+END
+jobconf.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobconf.jsp
+END
+jobdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobdetails.jsp
+END
+jobtasks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/jobtasks.jsp
+END
+gethistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/gethistory.jsp
+END
+taskstats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/taskstats.jsp
+END
+job_authorization_error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/webapps/job/job_authorization_error.jsp
+END

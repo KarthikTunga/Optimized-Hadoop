@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hod/hodlib/ServiceProxy
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hod/hodlib/ServiceProxy/__init__.py
+END
+serviceProxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/hod/hodlib/ServiceProxy/serviceProxy.py
+END

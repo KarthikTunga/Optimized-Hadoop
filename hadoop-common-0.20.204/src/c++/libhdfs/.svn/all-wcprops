@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs
+END
+hdfs_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/hdfs_write.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/Makefile.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/ltmain.sh
+END
+hdfs_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/hdfs_read.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/configure.ac
+END
+hdfs_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/hdfs_test.c
+END
+hdfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/hdfs.c
+END
+hdfsJniHelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/hdfsJniHelper.c
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/Makefile.am
+END
+hdfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/hdfs.h
+END
+hdfsJniHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/hdfsJniHelper.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/libhdfs/install-sh
+END

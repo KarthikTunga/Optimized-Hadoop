@@ -1,0 +1,138 @@
+10
+
+dir
+1243703
+http://svn.apache.org/repos/asf/hadoop/common/tags/release-0.20.204.0/src
+http://svn.apache.org/repos/asf
+
+
+
+2011-08-25T20:40:40.963325Z
+1161741
+omalley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+test
+dir
+
+ant
+dir
+
+hdfs
+dir
+
+native
+dir
+
+fixFontsPath.sh
+file
+
+
+
+
+2012-02-03T09:10:41.000000Z
+008e1b2549a6e4249bf9bdb60a54e8e5
+2008-12-11T00:04:27.852658Z
+725496
+omalley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3401
+
+core
+dir
+
+docs
+dir
+
+contrib
+dir
+
+tools
+dir
+
+webapps
+dir
+
+c++
+dir
+
+mapred
+dir
+
+saveVersion.sh
+file
+
+
+
+
+2012-02-03T09:10:41.000000Z
+b765d136bb02b1dd100a8a0b246ea8b4
+2011-03-04T03:48:49.375999Z
+1077176
+omalley
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1718
+
+benchmarks
+dir
+
+packages
+dir
+
+examples
+dir
+

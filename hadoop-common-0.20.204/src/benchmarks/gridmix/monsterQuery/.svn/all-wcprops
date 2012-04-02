@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/monsterQuery
+END
+monster_query.small
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/monsterQuery/monster_query.small
+END
+monster_query.large
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/monsterQuery/monster_query.large
+END
+monster_query.medium
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/benchmarks/gridmix/monsterQuery/monster_query.medium
+END

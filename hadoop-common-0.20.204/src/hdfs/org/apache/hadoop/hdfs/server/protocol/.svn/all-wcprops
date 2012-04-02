@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol
+END
+DatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeProtocol.java
+END
+InterDatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/InterDatanodeProtocol.java
+END
+BlocksWithLocations.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlocksWithLocations.java
+END
+DisallowedDatanodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DisallowedDatanodeException.java
+END
+UpgradeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/UpgradeCommand.java
+END
+BlockMetaDataInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlockMetaDataInfo.java
+END
+NamenodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/NamenodeProtocol.java
+END
+NamespaceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/NamespaceInfo.java
+END
+BlockCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlockCommand.java
+END
+DatanodeRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeRegistration.java
+END
+KeyUpdateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/KeyUpdateCommand.java
+END
+DatanodeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand.java
+END

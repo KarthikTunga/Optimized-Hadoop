@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test
+END
+fi-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/fi-site.xml
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/hdfs-site.xml
+END
+hadoop-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/hadoop-policy.xml
+END
+krb5.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/krb5.conf
+END
+commit-tests
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/commit-tests
+END
+all-tests
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/all-tests
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/core-site.xml
+END
+checkstyle-noframes-sorted.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/checkstyle-noframes-sorted.xsl
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/mapred-site.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/log4j.properties
+END
+findbugsExcludeFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/findbugsExcludeFile.xml
+END
+hadoop-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/hadoop-site.xml
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/checkstyle.xml
+END
+smoke-tests
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/test/smoke-tests
+END

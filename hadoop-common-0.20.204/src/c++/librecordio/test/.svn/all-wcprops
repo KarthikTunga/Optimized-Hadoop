@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/librecordio/test
+END
+test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/librecordio/test/test.cc
+END
+testFromJava.hh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/librecordio/test/testFromJava.hh
+END
+test.jr
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/librecordio/test/test.jr
+END
+testFromJava.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/librecordio/test/testFromJava.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/librecordio/test/Makefile
+END
+test.hh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/c++/librecordio/test/test.hh
+END

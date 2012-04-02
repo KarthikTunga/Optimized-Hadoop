@@ -1,0 +1,144 @@
+10
+
+dir
+1243703
+http://svn.apache.org/repos/asf/hadoop/common/tags/release-0.20.204.0/src/contrib
+http://svn.apache.org/repos/asf
+
+
+
+2011-08-01T18:32:12.489269Z
+1152887
+mattf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+test
+dir
+
+eclipse-plugin
+dir
+
+fairscheduler
+dir
+
+failmon
+dir
+
+hdfsproxy
+dir
+
+bash-tab-completion
+dir
+
+data_join
+dir
+
+thriftfs
+dir
+
+streaming
+dir
+
+build-contrib.xml
+file
+
+
+
+
+2012-02-03T09:10:38.000000Z
+fad0bcd3d2f2c261506226c782381366
+2011-06-19T06:30:55.448840Z
+1137300
+omalley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18374
+
+build.xml
+file
+
+
+
+
+2012-02-03T09:10:38.000000Z
+e37602ebc7ac8e4a21bc660b3c8cb392
+2011-03-04T04:32:27.462054Z
+1077588
+omalley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4229
+
+gridmix
+dir
+
+index
+dir
+
+capacity-scheduler
+dir
+
+ec2
+dir
+
+hod
+dir
+
+fuse-dfs
+dir
+
+vaidya
+dir
+

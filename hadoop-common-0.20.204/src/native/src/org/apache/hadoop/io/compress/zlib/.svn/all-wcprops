@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/src/org/apache/hadoop/io/compress/zlib
+END
+ZlibDecompressor.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/src/org/apache/hadoop/io/compress/zlib/ZlibDecompressor.c
+END
+org_apache_hadoop_io_compress_zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/src/org/apache/hadoop/io/compress/zlib/org_apache_hadoop_io_compress_zlib.h
+END
+ZlibCompressor.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/native/src/org/apache/hadoop/io/compress/zlib/ZlibCompressor.c
+END

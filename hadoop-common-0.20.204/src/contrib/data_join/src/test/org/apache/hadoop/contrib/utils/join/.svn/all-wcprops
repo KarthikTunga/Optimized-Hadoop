@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/data_join/src/test/org/apache/hadoop/contrib/utils/join
+END
+TestDataJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/src/contrib/data_join/src/test/org/apache/hadoop/contrib/utils/join/TestDataJoin.java
+END

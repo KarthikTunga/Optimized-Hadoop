@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf
+END
+hadoop-policy.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/hadoop-policy.xml.template
+END
+capacity-scheduler.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/capacity-scheduler.xml.template
+END
+mapred-site.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/mapred-site.xml.template
+END
+mapred-queue-acls.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/mapred-queue-acls.xml.template
+END
+hadoop-env.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/hadoop-env.sh.template
+END
+masters.template
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/masters.template
+END
+hadoop-metrics2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/hadoop-metrics2.properties
+END
+ssl-server.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/ssl-server.xml.example
+END
+hdfs-site.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/hdfs-site.xml.template
+END
+core-site.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/core-site.xml.template
+END
+taskcontroller.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/taskcontroller.cfg
+END
+ssl-client.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/ssl-client.xml.example
+END
+slaves.template
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/slaves.template
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/log4j.properties
+END
+configuration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164582/hadoop/common/tags/release-0.20.204.0/conf/configuration.xsl
+END
